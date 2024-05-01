@@ -106,7 +106,7 @@ scheme: Mist
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/lakerswillwin/essay.github.io
+  repo: https://github.com/lakerswillwin/essay.github.io.git
   branch: master
 menu:
   home: / || fa fa-home
